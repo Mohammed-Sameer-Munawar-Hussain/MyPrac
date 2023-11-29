@@ -29,8 +29,8 @@
 
 // Expressions and Operators//
 
-let a = 74;
-b = 6;
+// let a = 74;
+// b = 6;
 
 // console.log('a+b=', a+b)
 // console.log('a-b=', a-b)
@@ -58,3 +58,14 @@ b = 6;
 
 // console.log(a)
 
+// comparison operators //
+
+let a = 24
+b = '23'
+
+console.log(a == b)
+console.log(a > b)
+console.log(a >= b)
+console.log(a === b)
+console.log(a != b)
+console.log(a !== b)
