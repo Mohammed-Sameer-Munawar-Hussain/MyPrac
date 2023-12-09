@@ -41,9 +41,6 @@
 // console.log('b--=', b--)
 // console.log('b =', b)
 // console.log('a-b=', a-b)
-// console.log('a-b=', a-b)
-// console.log('a-b=', a-b)
-// console.log('a-b=', a-b)
 
 // Assigment Operator//
 // a += 4
@@ -60,12 +57,12 @@
 
 // comparison operators //
 
-let a = 24
-b = '23'
+// let a = 24
+// b = '23'
 
-console.log(a == b)
-console.log(a > b)
-console.log(a >= b)
-console.log(a === b)
-console.log(a != b)
-console.log(a !== b)
+// console.log(a == b)
+// console.log(a > b)
+// console.log(a >= b)
+// console.log(a === b)
+// console.log(a != b)
+// console.log(a !== b)

@@ -60,7 +60,7 @@
 // }
 
 // find weather its divisable by 2 and 3
-
+// 
 // let a = prompt("enter a number");
 // a = Number.parseInt(a);
 
@@ -92,3 +92,58 @@
 // let age = 1
 // let a = age >= 18 ? "u can drive" : "u can't drive"
 // console.log(a)
+
+
+// let num = 20
+// let a = num % 2 == 0 ? "divisible by 2" : "not divisible by 2"
+// let b = num % 3 == 0 ? "divisible by 3" : "not divisible by 3"
+// console.log(a)
+// console.log(b)
+
+
+
+// let weather = 'winter'
+// let a = weather == 'sunny' ? "use sunscreen" : "don't use sunscreen"
+// let b = weather == 'raining' ? "use raincoat" : "don't use raincoat"
+// let c = weather == 'winter' ? "use coat" : "don't use coat"
+// console.log(a)
+// console.log(b)
+// console.log(c)
+
+// to store users data//
+//  let data = prompt("enter ur name", "guest");
+//  a = parseInt(data)
+
+//  if(data){
+//         alert("u hav registered successfully")
+//         console.log(data)
+//  }
+//  else{
+//         alert("plz enter ur name")
+//  }
+
+// confirm //
+// let post = confirm("do u wnt to delete this post?")
+// // console.log(post) //shows T or F
+
+// if(post){
+//         console.log("deleted")
+// }
+// else{
+//         console.log("not deleted")
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
