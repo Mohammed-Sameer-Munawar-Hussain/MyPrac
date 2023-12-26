@@ -52,9 +52,9 @@
 
 // functions //
 
-// let a = 5;
-// b = 8;
-// h = 4;
+let a = 5;
+b = 8;
+h = 4;
 
 // function fstFun(x , y) {
 //     console.log("see below")
@@ -68,7 +68,7 @@
 // const sum = (p , q)=>{
 //     return p - q
 // }
-// // console.log(sum(a , h))
+// console.log(sum(a , h))
 
 // const newVar = ()=>{
 //     console.log("prac3")
