@@ -45,7 +45,7 @@ let comp = (a,b )=> {
 //  let a5= a2.slice( 2,5)
 // console.log(a5)
 
-let a2 = [1,6,34,33,5,6,4,83]
-a2.forEach(element => {
-    console.log(element*2)
-});
+// let a2 = [1,6,34,33,5,6,4,83]
+// a2.forEach(element => {
+//     console.log(element*2)
+// });
